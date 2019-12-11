@@ -1,4 +1,4 @@
-# task1
+# Camera Pose Estimation (Checkerboard and Natural features)
 Detect a checkerboard in a camera frame
 
 Estimate the camera pose relative to said checkerboard
